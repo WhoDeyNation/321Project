@@ -1,6 +1,6 @@
 # Bulk creating AD Users from a CSV file
 # Created by Aaron Platek aaron.platek11@outlook.com
-# Modules Required ActiveDirectory
+# Modules Required ActiveDirectory by adding windows feature
 
 # Start of function 
 New-BulkADUser (OptionalParameters) 
